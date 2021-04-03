@@ -5,7 +5,7 @@
 This repository shows the performance of a Pretrained U-NET applied to cardiac MRI slices.
 
 1. Colab version in [Colab file](colab/UNET_pretrained_multiclass-Git.ipynb)
-2. Python version built in [py file](py version)
+2. Python version built in [py file](py version/main.py)
 
 ![Sample1](Figure_ventricles1.png)
 
