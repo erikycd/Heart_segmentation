@@ -12,6 +12,6 @@ This repository shows the performance of a Pretrained U-NET applied to cardiac M
 ![Sample3](Figure_confusionP.png)
 
 
-This work was partially submitted at:
+This work was partially published at:
 
 1. [Erik Carbajal-Degante, Steve Avendaño, Leonardo Ledesma, Jimena Olveres, Boris Escalante-Ramírez, "Active contours for multi-region segmentation with a convolutional neural network initialization," Proc. SPIE 11353, Optics, Photonics and Digital Technologies for Imaging Applications VI, 1135307 (1 April 2020)](https://doi.org/10.1117/12.2556928)
