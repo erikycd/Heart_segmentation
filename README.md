@@ -11,7 +11,9 @@ This repository shows the performance of a Pretrained U-NET applied to cardiac M
 
 ![Sample2](Figure_ventricles1.png)
 
-![Sample3](Figure_confusionP.png)
+<p align="center">
+  <img width="50%" src="https://github.com/erikycd/Heart_segmentation/blob/main/Figure_confusionP.png?raw=true">
+</p>
 
 This work is an updated version of the project partially published at:
 
