@@ -7,6 +7,8 @@ This repository shows the performance of a Pretrained U-NET applied to cardiac M
 1. Colab version in [Colab file](colab/UNET_pretrained_multiclass-Git.ipynb)
 2. Python version built in [py file](py_version)
 
+The dataset used can be found in the file: [MRI_dataset.rar](MRI_dataset.rar). It cosists of MRI images with left and right ventricle annotations each.
+
 ![Sample1](Diagram.png)
 
 ![Sample2](Figure_ventricles1.png)
